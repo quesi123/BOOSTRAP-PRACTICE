@@ -1,0 +1,44 @@
+.BOX1{
+	background-color: tomato;
+	color: white;
+	
+}
+.BOX2{
+	background-color: tan;
+	color: white;
+
+}
+.BOX3{
+	background-color: sienna;
+	color: white;
+}
+.BOX4{
+	background-color: palevioletred;
+	color: white;
+}
+.BOX5{
+	background-color:salmon;
+	color: white;
+}
+.BOX6{
+	background-color: olivedrab;
+	color: white;
+}
+.off{
+	background-color: darksalmon;
+	color: white;
+	margin: 30px;
+}
+.text{
+	background-color:darksalmon;
+	color: white;
+	height: 150%;
+}
+body{
+	background-color:mediumspringgreen;
+}
+h2{
+	border: 5px solid black;
+	border-color: darkred;
+	background-color: darksalmon;
+}
